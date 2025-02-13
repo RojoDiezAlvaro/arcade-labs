@@ -46,7 +46,7 @@ def main():
     arcade.open_window(1024, 720, "Drawing test2")
     arcade.set_background_color(arcade.color.BLACK)
 
-    arcade.schedule(on_draw,1/15)
+    arcade.schedule(on_draw,1/60)
 
     arcade.run()
 
