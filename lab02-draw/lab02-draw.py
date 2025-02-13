@@ -23,7 +23,6 @@ arcade.draw_rectangle_filled(38,42,2,2,arcade.color.BLACK)
 arcade.draw_rectangle_filled(42,39,2,2,arcade.color.BLACK)
 arcade.draw_rectangle_filled(39,38,3,3,arcade.color.BLACK)
 
-
 arcade.draw_rectangle_filled(105,65,150,2,arcade.color.WHITE)
 arcade.draw_rectangle_filled(80,75,100,2,arcade.color.WHITE)
 arcade.draw_rectangle_filled(45,55,30,2,arcade.color.WHITE)
